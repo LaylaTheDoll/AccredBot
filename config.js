@@ -1,6 +1,6 @@
 module.exports = {
     app: {
-        token: process.env.DISCORD_TOKEN || 'MTI3MjY3MTA5NjE5NzM0OTUyMA.GokRtU.grG_MB4f7M1qf-Du_UwWA46IS5cxXIAgfO8FWA',
+        token: process.env.DISCORD_TOKEN || 'xxx',
         playing: 'Accred Music 🔮',
         global: true,
         guild: process.env.GUILD_ID || 'xxx',
